@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MKWebMonirotingApp")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Marcin Kałat Programy Komputerowe")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
